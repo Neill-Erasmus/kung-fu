@@ -1,5 +1,9 @@
 # Kung-Fu
 
+<p align="center">
+  <img src="https://github.com/Neill-Erasmus/kung-fu/assets/141222943/cd7fc948-f5d8-4ac6-be8a-3c7f73d103bb" alt="video">
+</p>
+
 A Deep Convolutional Q-Network (DCQN) has been developed and trained with the aim of mastering the kung fu environment offered by OpenAI's Gymnasium. This project focuses on leveraging the Asynchronous Advantage Actor-Critic (A3C) algorithm, empowering an agent to autonomously navigate and excel in the intricacies of the kung fu environment.
 
 ## Deep Convolutional Q-Learning
@@ -79,6 +83,10 @@ As each instance of the agent interacts with the environment independently, they
 Overall, A3C combines the benefits of deep learning with reinforcement learning, utilizing asynchronous training and actor-critic architecture to train agents to make decisions in complex environments efficiently.
 
 ## Overview of Kung Fu Environment
+
+<p align="center">
+  <img src="https://github.com/Neill-Erasmus/kung-fu/assets/141222943/34fcc394-1655-4830-9aaf-586a48a4a30a" alt="kung_fu_master">
+</p>
 
 ### Description
 
